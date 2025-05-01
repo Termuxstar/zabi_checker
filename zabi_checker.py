@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 import os
 
 # === Insert your actual Google API key below ===
-API_KEY = "AIzaSyDQZPqZbpt7Ebn7cCz0yLtNOmgmEzOZ1C8"
+API_KEY = "YOUR GOOGLE API KEY"
 
 def show_banner():
     print("""
